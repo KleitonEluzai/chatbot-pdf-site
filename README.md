@@ -58,10 +58,6 @@ Também foi possível desenvolver habilidades importantes como:
 
 ## Considerações finais
 
-Este projeto foi desenvolvido como parte do processo de transição de carreira para a área de tecnologia, com foco em inteligência artificial aplicada. Ele demonstra a capacidade de utilizar ferramentas modernas em nuvem para construir soluções reais e funcionais, mesmo partindo de um perfil não técnico.
-
 O aprendizado adquirido durante o desenvolvimento amplia a compreensão sobre como a IA pode ser utilizada de forma prática e acessível, abrindo portas para oportunidades futuras no mercado de tecnologia.
 
-## Contato
 
-Este repositório faz parte do meu portfólio como aluno em formação. Caso queira entrar em contato, estou aberto para conexões, parcerias e oportunidades na área de tecnologia e inovação.
